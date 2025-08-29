@@ -6,7 +6,7 @@
 [![Performance](https://img.shields.io/badge/Performance-1M%2B%20attempts%2Fs-green.svg)](https://github.com/ReactOnAuth/Rust-Minter-Pump-Bonk)
 [![Output](https://img.shields.io/badge/Output-JSON%20%7C%20TXT-purple.svg)](https://github.com/ReactOnAuth/Rust-Minter-Pump-Bonk)
 
-A high-performance Rust application that generates Solana mint addresses ending with specific suffixes for pump.fun, lets.bonk, and pet tokens. The generator runs on all CPU cores at maximum utilization and exports addresses to JSON or TXT files.
+A high-performance Rust application that generates Solana mint addresses ending with specific suffixes for pump.fun, lets.bonk, and pet tokens. The generator runs on all CPU cores at maximum utilization and exports addresses to JSON or TXT files. 
 
 ## Project Origin
 
